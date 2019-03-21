@@ -3,7 +3,9 @@
 # HW2-Style-Transfer
 
 ## Training MUNIT
+#### 1. 照原先的參數train
 
+#### 2. 調整batch size = 3
 
 
 ---
